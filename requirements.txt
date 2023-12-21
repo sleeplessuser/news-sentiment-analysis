@@ -1,0 +1,7 @@
+-f https://download.pytorch.org/whl/cu118
+torch
+transformers
+evaluate
+datasets
+scikit-learn
+gradio
